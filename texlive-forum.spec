@@ -3,7 +3,7 @@ Version:	64566
 Release:	2
 Summary:	Forum fonts with LaTeX support
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/forum
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/forum
 License:	ofl lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/forum.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/forum.doc.r%{version}.tar.xz
